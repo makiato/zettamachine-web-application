@@ -1,0 +1,261 @@
+0000.000 (0) Opened log file at time: Mon, 27 Jun 2016 06:52:22 +0000 on http://zettamachine.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.13 WP: 4.5.3 PHP: 5.6.22 (Linux serv01.sgp9.siteground.asia 3.12.18-clouder0 #13 SMP Tue Mar 15 13:23:00 EET 2016 x86_64) MySQL: 5.6.28 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 34.9M | 35.5M) multisite: N openssl: OpenSSL 1.0.2h  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 465107.1 MB
+0000.013 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.016 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.017 (0) Set semaphore last lock (fd) time to 2016-06-27 06:52:22
+0000.018 (0) Semaphore lock (fd) complete
+0000.020 (0) Backup run: resumption=0, nonce=698ac3e0eb9d, begun at=1467010342 (0s ago), job type=backup
+0000.021 (0) Scheduling a resumption (1) after 300 seconds (1467010642) in case this run gets aborted
+0000.028 (0) Checking if we have a zip executable available
+0000.028 (0) Testing: /usr/bin/zip
+0000.032 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.033 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.033 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.034 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.037 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.038 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.038 (0) Stderr output: 
+0000.039 (0) Stderr output: 
+0000.039 (0) Stderr output: 
+0000.044 (0) Working binary zip found: /usr/bin/zip
+0000.045 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.046 (0) Creation of backups of directories: beginning
+0000.047 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.128 (0) Total entities for the zip file: 505 directories, 2429 files (0 skipped as non-modified), 32.4 MB
+0000.131 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.134 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.136 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.138 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.141 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.141 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.9 MB, 2429 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.554 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: size is now: 2.60 MB
+0000.562 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 600 files added (on-disk size: 2671.9 KB)
+0000.565 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 700 files added (on-disk size: 2671.9 KB)
+0000.568 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 800 files added (on-disk size: 2671.9 KB)
+0000.571 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 900 files added (on-disk size: 2671.9 KB)
+0000.574 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1000 files added (on-disk size: 2671.9 KB)
+0000.575 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.6 MB, 2429 files batched, 501 (1002) added so far); re-opening (prior size: 2671.9 KB)
+0000.785 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: size is now: 3.20 MB
+0000.792 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1100 files added (on-disk size: 3247.4 KB)
+0000.795 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1200 files added (on-disk size: 3247.4 KB)
+0000.797 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1300 files added (on-disk size: 3247.4 KB)
+0000.799 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1400 files added (on-disk size: 3247.4 KB)
+0000.802 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1500 files added (on-disk size: 3247.4 KB)
+0000.802 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.6 MB, 2429 files batched, 501 (1503) added so far); re-opening (prior size: 3247.4 KB)
+0001.844 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: size is now: 7.70 MB
+0001.852 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1600 files added (on-disk size: 7934.2 KB)
+0001.854 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1700 files added (on-disk size: 7934.2 KB)
+0001.857 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1800 files added (on-disk size: 7934.2 KB)
+0001.859 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 1900 files added (on-disk size: 7934.2 KB)
+0001.861 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 2000 files added (on-disk size: 7934.2 KB)
+0001.862 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.8 MB, 2429 files batched, 501 (2004) added so far); re-opening (prior size: 7934.2 KB)
+0002.097 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: size is now: 10.10 MB
+0002.105 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 2100 files added (on-disk size: 10366.5 KB)
+0002.107 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 2200 files added (on-disk size: 10366.5 KB)
+0002.110 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 2300 files added (on-disk size: 10366.5 KB)
+0002.112 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip.tmp: 2400 files added (on-disk size: 10366.5 KB)
+0002.648 (0) Created plugins zip (0) - 12295.8 KB in 2.6 s (4744.9 KB/s) (SHA1 checksum: 00e32f25027bc7325f5dd54a85442c549b2b43da)
+0002.650 (0) Beginning creation of dump of themes (split every: 400 MB)
+0002.706 (0) Total entities for the zip file: 267 directories, 1557 files (0 skipped as non-modified), 32.4 MB
+0002.709 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.711 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.714 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.716 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.719 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.720 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.7 MB, 1557 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0003.149 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: size is now: 2.80 MB
+0003.154 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 600 files added (on-disk size: 2846.9 KB)
+0003.156 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 700 files added (on-disk size: 2846.9 KB)
+0003.159 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 800 files added (on-disk size: 2846.9 KB)
+0003.161 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 900 files added (on-disk size: 2846.9 KB)
+0003.163 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 1000 files added (on-disk size: 2846.9 KB)
+0003.164 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.8 MB, 1557 files batched, 501 (1002) added so far); re-opening (prior size: 2846.9 KB)
+0003.714 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: size is now: 8.70 MB
+0003.721 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 1100 files added (on-disk size: 8932.3 KB)
+0003.724 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 1200 files added (on-disk size: 8932.3 KB)
+0003.726 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 1300 files added (on-disk size: 8932.3 KB)
+0003.728 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 1400 files added (on-disk size: 8932.3 KB)
+0003.731 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: 1500 files added (on-disk size: 8932.3 KB)
+0003.731 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.1 MB, 1557 files batched, 501 (1503) added so far); re-opening (prior size: 8932.3 KB)
+0004.576 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip.tmp: size is now: 18.00 MB
+0004.713 (0) Created themes zip (0) - 19015.2 KB in 2.1 s (9270.1 KB/s) (SHA1 checksum: 724e8691284d63ebf03f3898f13f8aaca3e614dc)
+0004.715 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0004.715 (0) Looking for candidates to back up in: /home/zettamac/public_html/wp-content/uploads
+0004.715 (0) finding files: 2015: adding to list (1)
+0004.716 (0) finding files: 2013: adding to list (2)
+0004.716 (0) finding files: 2014: adding to list (3)
+0004.717 (0) finding files: 2016: adding to list (4)
+0004.717 (0) finding files: landing-pages: adding to list (5)
+0004.718 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0004.739 (0) Total entities for the zip file: 40 directories, 127 files (0 skipped as non-modified), 4.4 MB
+0004.741 (0) Zip: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0004.804 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-uploads.zip.tmp: size is now: 4.40 MB
+0004.821 (0) Created uploads zip (0) - 4491.9 KB in 0.1 s (48176.2 KB/s) (SHA1 checksum: 84396a3d4077fc7e5e6b53210a8eeec9e7139441)
+0004.822 (0) Beginning backup of other directories found in the content directory (index: 0)
+0004.823 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0004.823 (0) Looking for candidates to back up in: /home/zettamac/public_html/wp-content
+0004.823 (0) finding files: themes: skipping: this is the themes directory
+0004.824 (0) finding files: updraft: skipping: this is the updraft directory
+0004.824 (0) finding files: upgrade: skipping: excluded by options
+0004.825 (0) finding files: plugins: skipping: this is the plugins directory
+0004.825 (0) finding files: uploads: skipping: this is the uploads directory
+0004.825 (0) finding files: index.php: adding to list (1)
+0004.837 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0004.842 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-others.zip.tmp: size is now: 0.00 MB
+0004.844 (0) Created others zip (0) - 0.2 KB in 0 s (22.5 KB/s) (SHA1 checksum: 687a38c6dab861178b38f0a4e2ae978f57d9fa51)
+0004.846 (0) Saving backup status to database (elements: 8)
+0004.848 (0) Beginning creation of database dump (WordPress DB)
+0004.849 (0) Testing: /usr/bin/mysqldump
+0004.864 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0004.870 (0) Table wpgi_options: Total expected rows (approximate): 264
+0004.902 (0) Table wpgi_options: Total rows added: 275 in 0.03 seconds
+0004.905 (0) Table wpgi_options: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_options.table.gz - 108.3 KB)
+0004.907 (0) Table wpgi_users: Total expected rows (approximate): 0
+0004.909 (0) Table wpgi_users: Total rows added: 1 in 0.00 seconds
+0004.910 (0) Table wpgi_users: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_users.table.gz - 0.5 KB)
+0004.914 (0) Table wpgi_usermeta: Total expected rows (approximate): 17
+0004.916 (0) Table wpgi_usermeta: Total rows added: 26 in 0.00 seconds
+0004.917 (0) Table wpgi_usermeta: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_usermeta.table.gz - 1.3 KB)
+0004.922 (0) Table wpgi_commentmeta: Total expected rows (approximate): 25
+0004.924 (0) Table wpgi_commentmeta: Total rows added: 25 in 0.00 seconds
+0004.924 (0) Table wpgi_commentmeta: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_commentmeta.table.gz - 0.7 KB)
+0004.927 (0) Table wpgi_comments: Total expected rows (approximate): 6
+0004.930 (0) Table wpgi_comments: Total rows added: 6 in 0.00 seconds
+0004.930 (0) Table wpgi_comments: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_comments.table.gz - 3.1 KB)
+0004.933 (0) Table wpgi_links: Total expected rows (approximate): 0
+0004.935 (0) Table wpgi_links: Total rows added: 0 in 0.00 seconds
+0004.936 (0) Table wpgi_links: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_links.table.gz - 0.4 KB)
+0004.938 (0) Table wpgi_postmeta: Total expected rows (approximate): 244
+0004.945 (0) Table wpgi_postmeta: Total rows added: 297 in 0.01 seconds
+0004.946 (0) Table wpgi_postmeta: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_postmeta.table.gz - 7.4 KB)
+0004.948 (0) Table wpgi_posts: Total expected rows (approximate): 37
+0004.959 (0) Table wpgi_posts: Total rows added: 37 in 0.01 seconds
+0004.960 (0) Table wpgi_posts: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_posts.table.gz - 29 KB)
+0004.964 (0) Table wpgi_term_relationships: Total expected rows (approximate): 77
+0004.967 (0) Table wpgi_term_relationships: Total rows added: 77 in 0.00 seconds
+0004.967 (0) Table wpgi_term_relationships: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_term_relationships.table.gz - 0.6 KB)
+0004.969 (0) Table wpgi_term_taxonomy: Total expected rows (approximate): 50
+0004.971 (0) Table wpgi_term_taxonomy: Total rows added: 51 in 0.00 seconds
+0004.972 (0) Table wpgi_term_taxonomy: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_term_taxonomy.table.gz - 0.7 KB)
+0004.974 (0) Table wpgi_termmeta: Total expected rows (approximate): 0
+0004.976 (0) Table wpgi_termmeta: Total rows added: 0 in 0.00 seconds
+0004.976 (0) Table wpgi_termmeta: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_termmeta.table.gz - 0.4 KB)
+0004.978 (0) Table wpgi_terms: Total expected rows (approximate): 50
+0004.980 (0) Table wpgi_terms: Total rows added: 51 in 0.00 seconds
+0004.981 (0) Table wpgi_terms: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_terms.table.gz - 1.1 KB)
+0004.985 (0) Table wpgi_inbound_events: Total expected rows (approximate): 0
+0004.987 (0) Table wpgi_inbound_events: Total rows added: 0 in 0.00 seconds
+0004.987 (0) Table wpgi_inbound_events: finishing file (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_inbound_events.table.gz - 0.4 KB)
+0004.989 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_options.table.gz (1/13): adding to final database dump
+0005.013 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_users.table.gz (2/13): adding to final database dump
+0005.014 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_usermeta.table.gz (3/13): adding to final database dump
+0005.014 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_commentmeta.table.gz (4/13): adding to final database dump
+0005.015 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_comments.table.gz (5/13): adding to final database dump
+0005.016 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_links.table.gz (6/13): adding to final database dump
+0005.017 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_postmeta.table.gz (7/13): adding to final database dump
+0005.020 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_posts.table.gz (8/13): adding to final database dump
+0005.027 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_term_relationships.table.gz (9/13): adding to final database dump
+0005.028 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_term_taxonomy.table.gz (10/13): adding to final database dump
+0005.029 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_termmeta.table.gz (11/13): adding to final database dump
+0005.029 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_terms.table.gz (12/13): adding to final database dump
+0005.030 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db-table-wpgi_inbound_events.table.gz (13/13): adding to final database dump
+0005.031 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db.gz: finished writing out complete database file (128 KB)
+0005.033 (0) Total database tables backed up: 13 (backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db.gz, size: 154279, checksum (SHA1): ed6948183406bb79c8cdd83645d61e421c7a26bf)
+0005.036 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0005.037 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0005.037 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0005.038 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-others.zip: others: This file has not yet been successfully uploaded: will queue
+0005.038 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0005.039 (0) Saving backup history. Total backup size: 35.1 MB
+0005.040 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0005.041 (0) Cloud backup selection (1/1): googledrive (last)
+0005.042 (0) Beginning dispatch of backup to remote (googledrive)
+0005.044 (0) Google Drive: requesting access token: client_id=207372275567-4bltcvm0kjpn7saehl4an6si8l5uuou5.apps.googleusercontent.com
+0005.090 (0) Google Drive: successfully obtained access token
+0006.449 (0) Google Drive quota usage: used=20174 MB, total=230400 MB, available=210226 MB
+0006.450 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B7GGApx4IIVJbG9maXFHUUlERWc)
+0007.118 (0) Googledrive chunked upload: 8.3 % uploaded (1048576)
+0007.273 (0) Googledrive chunked upload: 16.7 % uploaded (2097152)
+0007.428 (0) Googledrive chunked upload: 25 % uploaded (3145728)
+0007.591 (0) Googledrive chunked upload: 33.3 % uploaded (4194304)
+0007.785 (0) Googledrive chunked upload: 41.6 % uploaded (5242880)
+0007.951 (0) Googledrive chunked upload: 50 % uploaded (6291456)
+0008.120 (0) Googledrive chunked upload: 58.3 % uploaded (7340032)
+0008.273 (0) Googledrive chunked upload: 66.6 % uploaded (8388608)
+0008.451 (0) Googledrive chunked upload: 75 % uploaded (9437184)
+0008.633 (0) Googledrive chunked upload: 83.3 % uploaded (10485760)
+0008.922 (0) Googledrive chunked upload: 91.6 % uploaded (11534336)
+0009.105 (0) Googledrive chunked upload: 99.9 % uploaded (12582912)
+0010.213 (0) Googledrive chunked upload: 100 % uploaded (12582912)
+0010.215 (0) OK: Archive backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip uploaded to Google Drive in 3.76 seconds
+0010.216 (0) Recording as successfully uploaded: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip (f9c356106fcd9b00eb57c45920ac65a9)
+0010.222 (0) Deleting local file: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-plugins.zip: OK
+0010.570 (0) Google Drive quota usage: used=20186 MB, total=230400 MB, available=210214 MB
+0010.570 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip: Attempting to upload to Google Drive (into folder id: 0B7GGApx4IIVJbG9maXFHUUlERWc)
+0011.261 (0) Googledrive chunked upload: 5.4 % uploaded (1048576)
+0011.467 (0) Googledrive chunked upload: 10.8 % uploaded (2097152)
+0011.628 (0) Googledrive chunked upload: 16.2 % uploaded (3145728)
+0012.078 (0) Googledrive chunked upload: 21.5 % uploaded (4194304)
+0012.249 (0) Googledrive chunked upload: 26.9 % uploaded (5242880)
+0012.415 (0) Googledrive chunked upload: 32.3 % uploaded (6291456)
+0012.577 (0) Googledrive chunked upload: 37.7 % uploaded (7340032)
+0012.731 (0) Googledrive chunked upload: 43.1 % uploaded (8388608)
+0012.913 (0) Googledrive chunked upload: 48.5 % uploaded (9437184)
+0013.083 (0) Googledrive chunked upload: 53.9 % uploaded (10485760)
+0013.369 (0) Googledrive chunked upload: 59.2 % uploaded (11534336)
+0013.531 (0) Googledrive chunked upload: 64.6 % uploaded (12582912)
+0013.707 (0) Googledrive chunked upload: 70 % uploaded (13631488)
+0013.879 (0) Googledrive chunked upload: 75.4 % uploaded (14680064)
+0014.049 (0) Googledrive chunked upload: 80.8 % uploaded (15728640)
+0014.234 (0) Googledrive chunked upload: 86.2 % uploaded (16777216)
+0014.411 (0) Googledrive chunked upload: 91.5 % uploaded (17825792)
+0014.574 (0) Googledrive chunked upload: 96.9 % uploaded (18874368)
+0015.812 (0) Googledrive chunked upload: 100 % uploaded (18874368)
+0015.814 (0) OK: Archive backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip uploaded to Google Drive in 5.24 seconds
+0015.815 (0) Recording as successfully uploaded: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip (541146077427025e53ccd813c7bf0eb0)
+0015.822 (0) Deleting local file: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-themes.zip: OK
+0016.169 (0) Google Drive quota usage: used=20204.5 MB, total=230400 MB, available=210195.5 MB
+0016.170 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B7GGApx4IIVJbG9maXFHUUlERWc)
+0016.798 (0) Googledrive chunked upload: 22.8 % uploaded (1048576)
+0016.963 (0) Googledrive chunked upload: 45.6 % uploaded (2097152)
+0017.126 (0) Googledrive chunked upload: 68.4 % uploaded (3145728)
+0017.307 (0) Googledrive chunked upload: 91.2 % uploaded (4194304)
+0018.360 (0) Googledrive chunked upload: 100 % uploaded (4194304)
+0018.362 (0) OK: Archive backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-uploads.zip uploaded to Google Drive in 2.19 seconds
+0018.363 (0) Recording as successfully uploaded: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-uploads.zip (6335988cc04b92ef693285193bd4be33)
+0018.366 (0) Deleting local file: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-uploads.zip: OK
+0018.767 (0) Google Drive quota usage: used=20208.9 MB, total=230400 MB, available=210191.1 MB
+0018.768 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-others.zip: Attempting to upload to Google Drive (into folder id: 0B7GGApx4IIVJbG9maXFHUUlERWc)
+0020.726 (0) Googledrive chunked upload: 100 % uploaded
+0020.727 (0) OK: Archive backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-others.zip uploaded to Google Drive in 1.96 seconds
+0020.729 (0) Recording as successfully uploaded: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-others.zip (bedb80947c413ae3235d8a5285b753e4)
+0020.730 (0) Deleting local file: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-others.zip: OK
+0021.104 (0) Google Drive quota usage: used=20208.9 MB, total=230400 MB, available=210191.1 MB
+0021.105 (0) backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db.gz: Attempting to upload to Google Drive (into folder id: 0B7GGApx4IIVJbG9maXFHUUlERWc)
+0022.734 (0) Googledrive chunked upload: 100 % uploaded
+0022.736 (0) OK: Archive backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db.gz uploaded to Google Drive in 1.63 seconds
+0022.737 (0) Recording as successfully uploaded: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db.gz (95f4a448c4058a24b356a474cb13c0e7)
+0022.739 (0) Deleting local file: backup_2016-06-27-0652_Zettamachine_698ac3e0eb9d-db.gz: OK
+0022.740 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0022.741 (0) Number of backup sets in history: 2; groups (db): 1
+0022.741 (0) Examining (for databases) backup set with group_id=0, nonce=698ac3e0eb9d, datestamp=1467010342 (Jun 27 2016 06:52:22)
+0022.742 (0) This backup set is the backup set just made, so will not be deleted.
+0022.742 (0) Examining (for databases) backup set with group_id=0, nonce=0f0d96756fa4, datestamp=1467002198 (Jun 27 2016 04:36:38)
+0022.743 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0022.743 (0) Number of backup sets in history: 2; groups (files): 1
+0022.743 (0) Examining (for files) backup set with nonce=698ac3e0eb9d, datestamp=1467010342 (Jun 27 2016 06:52:22)
+0022.744 (0) This backup set is the backup set just made, so will not be deleted.
+0022.744 (0) This backup set is the backup set just made, so will not be deleted.
+0022.744 (0) This backup set is the backup set just made, so will not be deleted.
+0022.744 (0) This backup set is the backup set just made, so will not be deleted.
+0022.744 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0022.745 (0) Examining (for files) backup set with nonce=0f0d96756fa4, datestamp=1467002198 (Jun 27 2016 04:36:38)
+0022.745 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0022.746 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0022.747 (0) Resume backup (698ac3e0eb9d, 0): finish run
+0022.748 (0) Decremented the semaphore (fd) by 1
+0022.749 (0) Semaphore (fd) unlocked
+0022.749 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0022.751 (0) No email will/can be sent - the user has not configured an email address.
+0022.751 (0) The backup apparently succeeded and is now complete
